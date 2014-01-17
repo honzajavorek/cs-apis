@@ -23,7 +23,7 @@ Pro název souboru používejte `nejaky-vystizny-nazev.yaml`.
 - **url** - Odkaz na dokumentaci k API.
 - **technologies** - Seznam použitých technologií.
 - **free** - Zda lze z API využít nějaká data i zadarmo.
-- **paid** - Zda je celé API zpoplatněno (nebo nějaká jeho část).
+- **paid** - Zda je API zpoplatněno (celé nebo nějaká jeho část).
 - **official** - Zda se jedná o oficiální API, nebo je to nezávislá iniciativa,
   která ve skutečnosti není vlastníkem autorských práv na poskytovaná data.
 - **keywords** - Klíčová slova. Važte je tak, aby šlo API nějak hezky vyhledat.
