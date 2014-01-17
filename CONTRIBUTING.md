@@ -4,9 +4,9 @@ Zápisy jsou zapisovány ve formátu [YAML](https://cs.wikipedia.org/wiki/YAML)
 a měly by vypadat takto:
 
 ```yaml
-name: Fio banka: API Bankovnictví
-description: API Bankovnictví umožňuje bezpečné automatizované zpracování výpisů a pohybů na účtech vedených u Fio banky. Se službou API bankovnictví získáte okamžitý přehled o dění na Vašich účtech, aniž byste se museli přihlašovat do Vašeho internetového bankovnictví.
-url: http://www.fio.cz/bankovni-sluzby/api-bankovnictvi
+name: "Fio banka: API Bankovnictví"
+description: "API Bankovnictví umožňuje bezpečné automatizované zpracování výpisů a pohybů na účtech vedených u Fio banky. Se službou API bankovnictví získáte okamžitý přehled o dění na Vašich účtech, aniž byste se museli přihlašovat do Vašeho internetového bankovnictví."
+url: "http://www.fio.cz/bankovni-sluzby/api-bankovnictvi"
 technologies: [XML, MT940, OFX, GPC, CSV, JSON, HTML, PDF, ABO]
 free: yes
 paid: no
