@@ -1,0 +1,8 @@
+name: "ČSFD API"
+description: "Neoficiální API k ČSFD."
+url: "http://www.csfdapi.cz/"
+technologies: [JSON, PHP]
+free: yes
+paid: no
+official: no
+keywords: [ČSFD, filmy, seriály, herci, režiséři]
