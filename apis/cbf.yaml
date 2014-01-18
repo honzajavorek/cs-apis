@@ -1,0 +1,8 @@
+name: "Česká basketbalová federace: XML export"
+description: "XML export, který zahrnuje rozpisy utkání, výsledky a tabulky soutěží."
+url: "http://www.cbf.cz/ostatni/xml-export.html"
+technologies: [XML]
+free: yes
+paid: no
+official: yes
+keywords: [čbf, basketbal, utkání, zápasy]
