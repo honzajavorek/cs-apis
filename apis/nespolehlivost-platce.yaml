@@ -1,0 +1,8 @@
+name: "Daňový portál MFČR API"
+description: "Ověřování statusu nespolehlivý plátce DPH a ověřování platebních účtů."
+url: "http://adisspr.mfcr.cz/adistc/adis/idpr_pub/dpr_info/ws_spdph.faces"
+technologies: [PHP, XML, SOAP]
+free: yes
+paid: no
+official: yes
+keywords: [DPH, nespolehlivý plátce, daně, podnikání]

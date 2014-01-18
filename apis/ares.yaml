@@ -1,0 +1,8 @@
+name: "ARES API"
+description: "Registr ekonomických subjektů."
+url: "http://wwwinfo.mfcr.cz/ares/ares_xml.html.cz"
+technologies: [HTTP, XML]
+free: yes
+paid: no
+official: yes
+keywords: [ICO, rejstřík, registr, firmy, podnikání]
