@@ -4,7 +4,7 @@ Seznam českých a slovenských veřejných API s bezplatným nebo placeným
 přístupem. Snaha o katalogizaci tuzemských API po vzoru
 [ProgrammableWeb](http://www.programmableweb.com/).
 
-## [Katalog API](https://github.com/honzajavorek/cs-apis/wiki)
+### → [Katalog API](https://github.com/honzajavorek/cs-apis/wiki)
 
 ## K čemu je to dobré?
 
