@@ -4,6 +4,8 @@ Seznam českých a slovenských veřejných API s bezplatným nebo placeným
 přístupem. Snaha o katalogizaci tuzemských API po vzoru
 [ProgrammableWeb](http://www.programmableweb.com/).
 
+# [Katalog API](https://github.com/honzajavorek/cs-apis/wiki)
+
 ## K čemu je to dobré?
 
 - Zjistíme, co tady máme všechno k dispozici a na čem můžeme stavět nové
@@ -35,9 +37,7 @@ existující zápisy.
 Pokud chcete dělat velké změny, může se vám hodit přístup přes
 [Git](https://cs.wikipedia.org/wiki/Git):
 
-```shell
-git clone git@github.com:honzajavorek/cs-apis.wiki.git
-```
+    git clone git@github.com:honzajavorek/cs-apis.wiki.git
 
 ## Kdo za tím stojí?
 
