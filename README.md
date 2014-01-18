@@ -30,6 +30,15 @@ Lze samozřejmě i
 [upravovat](https://github.com/honzajavorek/cs-apis/wiki/Fio-Banka/_edit)
 existující zápisy.
 
+### Přístup přes Git
+
+Pokud chcete dělat velké změny, může se vám hodit přístup přes
+[Git](https://cs.wikipedia.org/wiki/Git):
+
+```shell
+git clone git@github.com:honzajavorek/cs-apis.wiki.git
+```
+
 ## Kdo za tím stojí?
 
 Nikdo a všichni. Obsah tohoto repozitáře je
