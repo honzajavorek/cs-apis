@@ -1,5 +1,0 @@
-install: "pip install pyyaml"
-language: python
-python:
-  - "3.3"
-script: "python -c \"import yaml, os; _ = {f: yaml.load(open('apis/' + f)) for f in os.listdir('apis')}\""
